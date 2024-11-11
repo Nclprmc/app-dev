@@ -2,7 +2,7 @@
 My first repository
 
 ## My Favorite Series
-** K-drama **
+**K-drama**
 - Alchemy of Souls
   : Alchemy of Souls is a South Korean fantasy romance series about young mages and a forbidden magic spell. 
 - Crash Landing on You
